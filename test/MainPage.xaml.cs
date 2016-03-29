@@ -25,6 +25,8 @@ namespace test
         public MainPage()
         {
             this.InitializeComponent();
+
+            // tää on ihan turha repo
         }
     }
 }
