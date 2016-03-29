@@ -22,6 +22,10 @@ namespace test
     /// </summary>
     public sealed partial class MainPage : Page
     {
+
+        /// <summary>
+        /// trolololo lo lo looo
+        /// </summary>
         public MainPage()
         {
             this.InitializeComponent();
